@@ -1,0 +1,31 @@
+{
+  "name": "rust-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rust",
+    "typescript"
+  ],
+  "author": "victor-auffret",
+  "license": "MIT",
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-auffret/rust-typescript.git"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "bugs": {
+    "url": "https://github.com/victor-auffret/rust-typescript/issues"
+  },
+  "homepage": "https://github.com/victor-auffret/rust-typescript#readme"
+}
